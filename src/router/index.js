@@ -26,8 +26,8 @@ const router = createRouter({
       component: AcessorioView,
     },
     {
-      path: "/cores",
-      name: "cores",
+      path: "/cor",
+      name: "cor",
       component: CorView,
     },
     {
